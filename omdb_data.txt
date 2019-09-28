@@ -1,0 +1,371 @@
+--- Vinyl disks ---
+Album Title: 		The Essential Bob Dylan
+Album Playtime: 	99
+Album Release Date: 8-Jul-2016
+Album Genre: 		Pop
+Album Price: 		37.00
+Album Tracks: 		32
+	Artist Name:	Bob Dylan	 
+	Artist Role:	Composer		 
+	Artist Name:	Bob Dylan	 
+	Artist Role:	Vocals
+	Reviewer Name:  Shawn
+	Review Date:    24-Jul-2018
+	Review Text:   	Wife loved it!
+	Review Score:  	5
+	Reviewer Name:  Reuben
+	Review Date:    2-Aug-2019
+	Review Text:   	Great compilation of some of his most known songs
+	Review Score:  	5
+Media Type: 		Vinyl 
+Disk Number:		2
+Disk Used Price 	
+Disk Delivery Cost 	11.00
+
+Album Title: 		Sketches of Spain
+Album Playtime: 	45
+Album Release Date: 8-Mar-2011
+Album Genre: 		Jazz
+Album Price: 		14.99
+Album Tracks: 		6
+	Artist Name:	Miles Davis	 
+	Artist Role:	Composer		 
+	Artist Name:	Miles Davis	 
+	Artist Role:	Musician
+	Reviewer Name:  Frederick
+	Review Date:    16-Sep-2016
+	Review Text:   	Recommend listening while viewing a sunset.
+	Review Score:  	5
+	Reviewer Name:  Juliet
+	Review Date:    12-Mar-2018
+	Review Text:   	Early days of The Great Miles--no lover of jazz should be without this album.
+	Review Score:  	5
+Media Type: 		Vinyl
+Disk Number:		1
+Disk Used Price: 	16.29
+Disk Delivery Cost: 7.00 
+
+Album Title: 		Bob Dylan's Greatest Hits
+Album Playtime: 	45
+Album Release Date: 31-Jan-2017
+Album Genre: 		Pop Rock
+Album Price: 		29.87
+Album Tracks: 		10
+	Artist Name:	Bob Dylan	 
+	Artist Role:	Composer		 
+	Artist Name:	Bob Dylan	 
+	Artist Role:	Vocals
+	Reviewer Name:  Kandy
+	Review Date:    16-Mar-2015
+	Review Text:   	Early Dylan in all his glory.
+	Review Score:  	5
+	Reviewer Name:  Stewart
+	Review Date:    18-Feb-2013
+	Review Text:   	Captures Bob Dylan transformation from a folk song Composer to a rock legend
+	Review Score:  	4
+Media Type: 		Vinyl 
+Disk Number:		1
+Disk Used Price: 	
+Disk Delivery Cost:	11.00 
+
+Album Title: 		Harvest (2009 Remaster)
+Album Playtime: 	44
+Album Release Date: 21-Jun-2009
+Album Genre: 		Rock Country
+Album Price: 		28.50
+Album Tracks: 		10
+	Artist Name:	Neil Young	 
+	Artist Role:	Composer		 
+	Artist Name:	Neil Young	 
+	Artist Role:	Vocals
+	Reviewer Name:  John
+	Review Date:    18-Feb-2019
+	Review Text:   	I absolutely LOVE this CD!
+	Review Score:  	5
+	Reviewer Name:  Stewart
+	Review Date:    18-Feb-2013
+	Review Text:   	Sounds good on vinyl!
+	Review Score:  	5
+Media Type: 		Vinyl 
+Disk Number:		1
+Disk Used Price: 	14.99
+Disk Delivery Cost: 11.00 
+
+Album Title: 		Kind Of Blue (Legacy Edition)
+Album Playtime: 	155
+Album Release Date: 20-Jan-2009
+Album Genre: 		Jazz
+Album Price: 		19.99
+Album Tracks: 		21
+	Artist Name:	Miles Davis	 
+	Artist Role:	Composer		 
+	Artist Name:	Miles Davis	 
+	Artist Role:	Musician
+	Reviewer Name:  Laurence
+	Review Date:    10-Sep-2014
+	Review Text:   	Very very special recording.
+	Review Score:  	5
+Media Type: 		Vinyl
+Disk Number:		3
+Disk Used Price: 	16.99
+Disk Delivery Cost: 10.00 
+
+--- Audio CDs ---
+Album Title: 		Harvest (2009 Remaster)
+Album Playtime: 	44
+Album Release Date: 21-Jun-2009
+Album Genre: 		Rock Country
+Album Price: 		10.50
+Album Tracks: 		10
+	Artist Name:	Neil Young	 
+	Artist Role:	Composer		 
+	Artist Name:	Neil Young	 
+	Artist Role:	Vocals
+	Reviewer Name:  John
+	Review Date:    18-Feb-2019
+	Review Text:   	I absolutely LOVE this CD!
+	Review Score:  	5
+	Reviewer Name:  Anthony
+	Review Date:    16-Aug-2019
+	Review Text:   	Neil Young's signature album.
+	Review Score:  	4
+Media Type: 		Audio CD 
+Disk Number:		1
+Disk Used Price: 	4.99
+Disk Delivery Cost: 11.00 
+
+Album Title: 		The Essential Bob Dylan
+Album Playtime: 	99
+Album Release Date: 8-Jul-2016
+Album Genre: 		Pop
+Album Price: 		26.17
+Album Tracks: 		32
+	Artist Name:	Bob Dylan	 
+	Artist Role:	Composer		 
+	Artist Name:	Bob Dylan	 
+	Artist Role:	Vocals
+	Reviewer Name:  Christopher
+	Review Date:    24-Jun-2016
+	Review Text:   	This is a terrific album.
+	Review Score:  	5
+	Reviewer Name:  Cauley
+	Review Date:    2-Aug-2015
+	Review Text:   	There can only be one Bob Dylan. God blessed him with the gift of verse.
+	Review Score:  	5
+Media Type: 		Audio CD 
+Disk Number:		2
+Disk Used Price: 	
+Disk Delivery Cost: 7.00
+
+Album Title: 		Bob Dylan's Greatest Hits
+Album Playtime: 	50
+Album Release Date: 1-Jun-1999
+Album Genre: 		Pop Rock
+Album Price: 		20.81
+Album Tracks: 		10
+	Artist Name:	Bob Dylan	 
+	Artist Role:	Composer		 
+	Artist Name:	Bob Dylan	 
+	Artist Role:	Vocals
+	Reviewer Name:  Kandy
+	Review Date:    16-Mar-2015
+	Review Text:   	Early Dylan in all his glory.
+	Review Score:  	5
+	Reviewer Name:  Stewart
+	Review Date:    18-Feb-2013
+	Review Text:   	Captures Bob Dylan transformation from a folk song composer to a rock legend.
+	Review Score:  	4
+Media Type: 		Audio CD 
+Disk Number:		1
+Disk Used Price: 	
+Disk Delivery Cost: 7.00 
+
+Album Title: 		Kind Of Blue (Legacy Edition)
+Album Playtime: 	155
+Album Release Date: 20-Jan-2009
+Album Genre: 		Jazz
+Album Price: 		19.99
+Album Tracks: 		21
+	Artist Name:	Miles Davis	 
+	Artist Role:	Composer		 
+	Artist Name:	Miles Davis	 
+	Artist Role:	Musician
+	Reviewer Name:  Amy
+	Review Date:    17-Apr-2018
+	Review Text:   	Poor quality sound compared to the vinyl record.
+	Review Score:  	2
+Media Type: 		Audio CD 
+Disk Number:		3
+Disk Used Price: 	16.99
+Disk Delivery Cost: 10.00 
+
+Album Title: 		Sketches of Spain
+Album Playtime: 	45
+Album Release Date: 20-Jan-2009
+Album Genre: 		Jazz
+Album Price: 		3.11
+Album Tracks: 		6
+	Artist Name:	Miles Davis	 
+	Artist Role:	Composer		 
+	Artist Name:	Miles Davis	 
+	Artist Role:	Musician
+	Reviewer Name:  Sara
+	Review Date:    3-Oct-2016 
+	Review Text:   	Another Must Have! One of Miles finest works.
+	Review Score:  	5
+	Reviewer Name:  Douglas
+	Review Date:    14-Jun-2014
+	Review Text:   	You might like it, but I admit it seems like a difficult listen.
+	Review Score:  	5
+Media Type: 		Audio CD 
+Disk Number:		1
+Disk Used Price: 	6.41
+Disk Delivery Cost: 7.00 
+
+Album Title: 		Gustav Mahler Symphony No. 9
+Album Playtime: 	45
+Album Release Date: 12-Oct-2017
+Album Genre: 		Classical
+Album Price: 		23.10
+Album Tracks: 		5
+	Artist Name:	David Zinman	 
+	Artist Role:	Conductor		 
+	Artist Name:	Gustav Mahler	 
+	Artist Role:	Composer
+	Artist Name:	Tonhalle Orchestra	 
+	Artist Role:	Orchestra
+	Reviewer Name:  Lindon
+	Review Date:    3-Dec-2010 
+	Review Text:   	This is an uneventful but fine recording.
+	Review Score:  	3
+	Reviewer Name:  Prescott
+	Review Date:    24-Aug-2013
+	Review Text:   	This is truly a spellbinding record.
+	Review Score:  	5
+Media Type: 		Audio CD 
+Disk Number:		1
+Disk Used Price: 	15.20
+Disk Delivery Cost: 7.00 
+
+--- MP3 ---
+Album Title: 		Bob Dylan's Greatest Hits
+Album Playtime: 	55
+Album Release Date: 1-Jan-2019
+Album Genre: 		Pop Rock
+Album Price: 		5.98
+Album Tracks: 		10
+	Artist Name:	Bob Dylan	 
+	Artist Role:	Composer		 
+	Artist Name:	Bob Dylan	 
+	Artist Role:	Vocals
+	Reviewer Name:  Mandy
+	Review Date:    16-Mar-2019
+	Review Text:   	Fantastic music!
+	Review Score:  	5
+Download Size:		60
+
+Album Title: 		Best of Neil Young
+Album Playtime: 	153
+Album Release Date: 21-Feb-2019
+Album Genre: 		Pop Rock
+Album Price: 		17.50
+Album Tracks: 		35
+	Artist Name:	Neil Young	 
+	Artist Role:	Composer		 
+	Artist Name:	Neil Young	 
+	Artist Role:	Vocals
+	Reviewer Name:  John
+	Review Date:    16-Apr-2019
+	Review Text:   	Great artist and great music.
+	Review Score:  	5
+Download Size:		165
+
+Album Title: 		Harvest (2009 Remaster)
+Album Playtime: 	44
+Album Release Date: 21-Jun-2009
+Album Genre: 		Rock Country
+Album Price: 		9.49
+Album Tracks: 		10
+	Artist Name:	Neil Young	 
+	Artist Role:	Composer		 
+	Artist Name:	Neil Young	 
+	Artist Role:	Vocals
+	Reviewer Name:  John
+	Review Date:    16-Apr-2019
+	Review Text:   	Great artist and great music.
+	Review Score:  	5
+Download Size:		52
+
+Album Title: 		Sketches of Spain 
+Album Playtime: 	45
+Album Release Date: 16-Aug-2013
+Album Genre: 		Jazz
+Album Price: 		24.99
+Album Tracks: 		6
+	Artist Name:	Miles Davis 
+	Artist Role:	Composer		 
+	Artist Name:	Miles Davis	 
+	Artist Role:	Musician
+	Reviewer Name:  Douglas
+	Review Date:    14-Jun-2014
+	Review Text:   	You might like it but I admit it seems like a difficult listen.
+	Review Score:  	5
+Download Size:		51
+
+Album Title: 		B.B. King Greatest Hits
+Album Playtime: 	114 
+Album Release Date: 16-Jul-2013
+Album Genre: 		Rock Blues
+Album Price: 		11.49
+Album Tracks: 		24
+	Artist Name:	B.B. King 
+	Artist Role:	Vocals		 
+	Artist Name:	B.B. King 	 
+	Artist Role:	Guitar
+	Reviewer Name:  David
+	Review Date:    18-May-2015 
+	Review Text:   	I highly recommend this album to anyone who want to see what BB King is all about.
+	Review Score:  	4
+Download Size:		125
+
+Album Title: 		The Essential Bob Dylan
+Album Playtime: 	99 
+Album Release Date: 8-Jul-2016
+Album Genre: 		Pop
+Album Price: 		16.00
+Album Tracks: 		32
+	Artist Name:	Bob Dylan 
+	Artist Role:	Composer		 
+	Artist Name:	Bob Dylan 	 
+	Artist Role:	Vocals
+	Reviewer Name:  Christopher
+	Review Date:    24-Jun-2016 
+	Review Text:   	This is a terrific album.
+	Review Score:  	5
+	Reviewer Name:  Cauley
+	Review Date:    2-Apr-2015 
+	Review Text:   	There can only be one Bob Dylan. God blessed him with the gift of verse 
+	Review Score:  	5
+Download Size:		112
+ 
+Album Title: 		Other Peoples Lives
+Album Playtime: 	42  
+Album Release Date: 15-Feb-2019
+Album Genre: 		Rock Dance 
+Album Price: 		9.49
+Album Tracks: 		10
+	Artist Name:	Stats 
+	Artist Role:	Composer		 
+	Artist Name:	Stats 	 
+	Artist Role:	Vocals
+	Reviewer Name:  George
+	Review Date:    17-Sep-2019  
+	Review Text:   	Good dancing music.
+	Review Score:  	3
+Download Size:		45
+
+
+
+ 
+
+

@@ -1,5 +1,3 @@
-select * from albums where albumTitle = 'Harvest (2009 Remaster)'
-/
 -- 1. Give album title, album release date and album price of all Neil Young's albums released after 1st January 2015.
 select distinct a.albumTitle, a.albumReleaseDate, a.albumPrice
 from albums a, table(a.albumArtists) v
@@ -8,18 +6,21 @@ and a.albumReleaseDate > '1-Jan-2015'
 /
 -- 2. Give album title and artist name for albums released only in MP3 format. Order by album title.
 select a.albumTitle, v.artistName
-from albums a,
-table(a.albumArtists) v
+from albums a, table(a.albumArtists) v
 where value(a) IS OF (mp3_type)
 order by a.albumTitle
 /
 -- 3. Give lowest rated MP3 album (i.e. album with the lowest average review score). Show album
 -- title and the average score. Exclude albums with only one review.
-avg(r.reviewScore) as avgScore
-select a.albumTitle
-from albums a
+select title, min(avgScore)
+from
+(select a.albumTitle as title, avg(r.reviewScore) as avgScore
+from albums a, table(a.albumReviews) r
 where value(a) is of (mp3_type)
-and a.albumReviews.count > 1
+group by a.albumTitle
+having count(r.reviewText) > 1 
+) 
+group by title
 /
 -- 4. Are there any albums released on all media, i.e. on MP3, audio CD and vinyl? Show album
 -- title and order by album title.

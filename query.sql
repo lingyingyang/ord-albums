@@ -74,14 +74,40 @@ end;
 -- ‘Audio CD’), album price, and discount (album price – discount price). Use this view to find
 -- the album that received the largest discount; show all view columns. (5 marks)
 create view all_albums as
-select albumTitle, , albumPrice, (albumPrice - discountPrice()) as discount
-from ablums
+select a.albumTitle, a.mediaType, a.albumPrice, (a.albumPrice - a.discountPrice()) as discount
+from ablums a
+where value(a) IS OF (disk_type)
+union all
+select b.albumTitle, 'MP3', b.albumPrice, (b.albumPrice - b.discountPrice()) as discount
+from ablums b
+where value(b) IS OF (mp3_type)
+/
+select * 
+from all_albums
+where (albumTitle, discount) in (
+	select albumTitle, max(discount)
+	from all_albums
+	group by albumTitle
+)
 /
 -- 7. Now, modify the view all_albums to also include the column album used price for disks; set
 -- album used price to zero for MP3 albums. Use this view to find the most expensive used
 -- album; show all view columns. (5 marks)
 create or update view all_albums as
-select 
+select a.albumTitle, a.mediaType, a.albumPrice, (a.albumPrice - a.discountPrice()) as discount, diskUsedPrice
+from ablums a
+where value(a) IS OF (disk_type)
+union all
+select b.albumTitle, 'MP3' as mediaType, b.albumPrice, (b.albumPrice - b.discountPrice()) as discount, 0 as diskUsedPrice
+from ablums b
+where value(b) IS OF (mp3_type)
+/
+select *
+from all_albums
+where (albumTitle, diskUsedPrice) in (
+	select albumTitle, max(diskUsedPrice)
+	from all_albums
+)
 /
 -- 8. Implement the method containsText (pString1, pString2) that returns 1 if pString1 contains
 -- pString, and 0 if it does not. Use this method to find albums with reviews that contain the word

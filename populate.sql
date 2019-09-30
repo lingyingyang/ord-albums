@@ -285,4 +285,5 @@ review_table_type(
 review_type('George', '17-Sep-2019', 'Good dancing music.' ,3)),
 45));
 
-
+commit;
+/

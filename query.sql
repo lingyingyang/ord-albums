@@ -24,10 +24,13 @@ group by title
 /
 -- 4. Are there any albums released on all media, i.e. on MP3, audio CD and vinyl? Show album
 -- title and order by album title.
-select a.albumTitle
-from albums a
-group by a.albumTitle
-having count(1) = 3
+select a.albumTitle 
+from albums a, albums b, albums c
+where value(a) is of (mp3_type)
+and treat(value(b) as disk_type).mediaType = 'Vinyl'
+and treat(value(c) as disk_type).mediaType = 'Audio CD'
+and a.albumTitle = b.albumTitle
+and b.albumTitle = c.albumTitle
 order by a.albumTitle
 /
 -- 5. Implement the method discountPrice() that returns a discounted price using the following
